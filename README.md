@@ -1,0 +1,2 @@
+# wordpress
+ pagina de noticias
