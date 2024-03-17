@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>uriel &#8211; Diario</title>
+	<atom:link href="https://diarioprueba.netlify.app/index.php/author/uriel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://diarioprueba.netlify.app</link>
+	<description>Noticias e informacion</description>
+	<lastBuildDate>Sat, 16 Mar 2024 16:02:28 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Noticia</title>
+		<link>https://diarioprueba.netlify.app/index.php/politica/noticia/</link>
+		
+		<dc:creator><![CDATA[uriel]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2024 16:02:23 +0000</pubDate>
+				<category><![CDATA[Politica]]></category>
+		<category><![CDATA[Noticia]]></category>
+		<guid isPermaLink="false">https://diarioprueba.netlify.app/?p=10</guid>
+
+					<description><![CDATA[Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, &#8220;consecteur&#8221;, en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de &#8220;de Finnibus Bonorum et Malorum&#8221; (Los Extremos del Bien y El Mal) por Cicero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, viene de una linea en la sección 1.10.32</p>
+
+
+
+<p>El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de &#8220;de Finibus Bonorum et Malorum&#8221; por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
